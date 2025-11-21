@@ -1,2 +1,2 @@
 # cc
-Claude Code Experiiments
+Claude Code Experiments
